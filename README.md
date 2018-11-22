@@ -15,7 +15,7 @@ $ git clone https://github.com/MRavantti/Lottery.git
 ```
 - Open the repo with Visual Studio
 
-- run the program with F5(Windows), &#8984; + &crarr;
+- run the program with F5(Windows), &#8984; + &crarr; (Mac os)
 
 - Good luck with the lottery!
 
