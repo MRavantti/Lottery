@@ -13,7 +13,7 @@ Console program from a school assignment. the name says it all. Start the progra
 ```sh
 $ git clone https://github.com/MRavantti/Lottery.git
 ```
-- Open the repo with Visual Studio
+- Open the file ```Lottery.sln``` Visual Studio
 
 - run the program with F5(Windows), &#8984; + &crarr; (Mac os)
 
